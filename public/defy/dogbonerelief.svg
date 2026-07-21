@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 614.25 91.66">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        font-family: SpaceGrotesk-Regular, 'Space Grotesk';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #231f20;
+        font-size: 12px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        fill: #f7d0e2;
+      }
+
+      .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-4" points="0 81.47 76.34 81.47 76.34 27.7 169.35 27.7 169.35 81.47 235.48 81.47"/>
+  <polygon class="cls-9" points="336.94 40.44 308.24 20.63 308.24 34.35 267.1 34.35 267.1 40.44 267.1 46.54 308.24 46.54 308.24 60.25 336.94 40.44"/>
+  <path class="cls-4" d="M614.25,79.73h-56.16s-2.38,8.69-11.05,8.69-9.14-8.69-9.14-8.69V25.97"/>
+  <circle class="cls-9" cx="66.26" cy="66.06" r="8.57"/>
+  <text class="cls-6" transform="translate(377.99 39.09)"><tspan class="cls-1" x="0" y="0">C</tspan><tspan x="6.82" y="0">ut</tspan><tspan class="cls-7" x="17.4" y="0">t</tspan><tspan x="21.3" y="0">er</tspan></text>
+  <line class="cls-2" x1="395.75" y1="42.73" x2="432.71" y2="74.63"/>
+  <circle class="cls-9" cx="435.23" cy="79.85" r="8.57"/>
+  <path class="cls-3" d="M368.55,81.47h56.16s2.38,8.69,11.05,8.69c8.86,0,9.14-8.69,9.14-8.69V27.7h93.01"/>
+  <text class="cls-5" transform="translate(242.67 10.2)"><tspan x="0" y="0">Add dogbone </tspan><tspan class="cls-10" x="81.64" y="0">r</tspan><tspan x="85.94" y="0">eli</tspan><tspan class="cls-8" x="98.93" y="0">e</tspan><tspan x="105.79" y="0">f</tspan></text>
+</svg>
